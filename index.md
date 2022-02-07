@@ -4,6 +4,12 @@
 ![image](https://user-images.githubusercontent.com/99159300/152741907-160043b5-0e3d-4ce3-a366-4a0325bc256a.png)
 > 大隐隐于市...
 
+![image](https://user-images.githubusercontent.com/99159300/152748185-2e4adcfb-9f27-487c-9e8b-2c06b1494af0.png)
+> 问题本质，根在智商
+
+![image](https://user-images.githubusercontent.com/99159300/152748410-3f227359-5e2f-40bf-9937-2563a7fed03f.png)
+> 一切都有办法，aha...扩大井口及沟通协作
+
 ![image](https://user-images.githubusercontent.com/99159300/152724181-8d0a3229-c54c-4fdf-91a1-1f9e2019c95a.png)
 > 灵光乍现，脑回路，神经链接...
 
@@ -1016,6 +1022,9 @@ rocketreach.co
 > “职场人非常有必要通过主动攀谈，建立与周围人士的情感链接，修好横向管理和向上管理这两门功课。只有这样，才有可能获取更多关键信息和成长机会，在想要弯道超车的时候，找到成功的捷径。”
 
 ## 参考
+
+1. [有效提升你的谈判能力](https://www.dedao.cn/course/detail?id=QG0xjrRlNamKYdesnGXg5k293pyOqM)
+2. [有效提升你的职场说服力](https://www.dedao.cn/course/detail?id=alQr3o4dMw8ZKgaf2rJ7N2xDyWeEq1)
 
 ![Alt](https://repobeats.axiom.co/api/embed/6b5a0ac1443cfd74dc4ecdd8cb8f842cb2e09517.svg "Repobeats analytics image")
 
