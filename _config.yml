@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+
+# jekyll主题
+title: AhaPatent
+description: "啊哈，专利！"
+# https://user-images.githubusercontent.com/98723675/151733107-162b0165-e1e6-41f0-af23-be649e6e3537.png
+# https://user-images.githubusercontent.com/98723675/151739908-a477af5a-52f0-43d4-9eb1-63591b86935b.png
+# https://user-images.githubusercontent.com/98672986/152455866-520a9543-80a4-4496-9e62-c62f7f4b2f34.png
+logo: https://user-images.githubusercontent.com/99159300/152724186-67a15d91-0a73-48fa-bde7-84754398e351.png
